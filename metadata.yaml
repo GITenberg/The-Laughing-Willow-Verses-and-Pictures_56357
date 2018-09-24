@@ -1,5 +1,8 @@
 _repo: The-Laughing-Willow-Verses-and-Pictures_56357
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56357-h/images/cover.jpg
 creator:
   author:
     agent_name: Herford, Oliver
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24852
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56357#The-Laughing-Willow-Verses-and-Pictures
 gutenberg_issued: '2018-01-11'
 gutenberg_type: Text
 identifiers:
